@@ -1,9 +1,9 @@
 // ==== darkToggler
-window.onload = onPageLoad();
+// window.onload = onPageLoad();
 
-function onPageLoad() {
-  document.getElementById("darkToggler").checked = true;
-}
+// function onPageLoad() {
+//   document.getElementById("darkToggler").checked = true;
+// }
 const darkTogglerCheckbox = document.querySelector("#darkToggler");
 const html = document.querySelector("html");
 
